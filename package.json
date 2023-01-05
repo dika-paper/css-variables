@@ -1,0 +1,15 @@
+{
+  "name": "@paper-fe/css-variables",
+  "version": "1.0.0",
+  "description": "PAPER.ID's CSS Variables",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paperid",
+    "css"
+  ],
+  "author": "Paper FE",
+  "license": "ISC"
+}
